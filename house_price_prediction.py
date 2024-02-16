@@ -1,5 +1,4 @@
-# TASK 1
-# implementing a linear regression modelto predict the prices of 
+# implementing a linear regression model to predict the prices of 
 # houses on their square footage and the number of 
 # bedrooms and bathrooms
 
